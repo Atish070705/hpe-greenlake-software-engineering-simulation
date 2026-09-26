@@ -1,0 +1,10 @@
+POST http://localhost:8080/employees
+Content-Type: application/json
+
+{
+  "employee_id": "4",
+  "first_name": "Amit",
+  "last_name": "Patil",
+  "email": "amit@gmail.com",
+  "title": "Developer"
+}
